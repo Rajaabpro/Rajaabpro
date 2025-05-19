@@ -2,8 +2,9 @@
 
 Turning ideas into clean, modern web experiences 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Code+%26+Creativity+Enthusiast;Let%E2%80%99s+Build+Something+Great!" alt="Typing SVG" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Code+%26+Creativity+Enthusiast;Let%E2%80%99s+Build+Something+Great!" alt="Typing SVG" />
+</p>
 
 ## 💼 I love working with:
 
@@ -48,23 +49,24 @@ Turning ideas into clean, modern web experiences 🚀
 * 💸 MERN/Full-stack projects  
 * 🌐 Custom UI components with React  
 * ⚙️ Dockerized development environments
-
 ---
+## 🧰 Tech Stack
 
-## 🛠️ My Toolkit in Detail:
-
-
-**🎨 Frontend**:  
-🌐 JavaScript / TypeScript ・ ⚛️ React ・ 🖼️ HTML5 ・ 🎨 CSS3 ・ ⚡ Vite ・ 🌬️ Tailwind ・ 🅱️ Bootstrap
-
-**⚙️ Backend**:  
-🛠️ Express.js ・ ⚙️ Node.js ・ 🧠 MongoDB
-
-**🚀 DevOps**:  
-🐳 Docker ・ 🔁 GitHub Actions
-
-**🧠 Concepts**:  
-🔗 REST APIs ・ 🧱 MVC ・ 🧼 Clean Code
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
 
 ---
