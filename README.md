@@ -7,18 +7,18 @@ Turning ideas into clean, modern web experiences 🚀
 
 ## 💼 I love working with:
 
-**Languages & Runtimes**
+**Languages & Runtimes**  
 • 🧙‍♂️ JavaScript / TypeScript  
 • ⚙️ Node.js
 
 **Frontend Frameworks**  
 • ⚛️ React  
 • 🎨 HTML5 + CSS3  
-• 💫 Vite
+• ⚡ Vite
 
 **Backend & Databases**  
 • 🧠 MongoDB  
-• 💳 Docker  
+• 🐳 Docker  
 • 🔐 Express.js
 
 ---
@@ -53,36 +53,19 @@ Turning ideas into clean, modern web experiences 🚀
 
 ## 🛠️ My Toolkit in Detail:
 
-### 🎨 Front-end
 
-**Languages**:  
-• JavaScript / TypeScript
+**🎨 Frontend**:  
+🌐 JavaScript / TypeScript ・ ⚛️ React ・ 🖼️ HTML5 ・ 🎨 CSS3 ・ ⚡ Vite ・ 🌬️ Tailwind ・ 🅱️ Bootstrap
 
-**Frameworks & Libraries**:  
-• React • HTML5 • CSS3  
-• Vite • Bootstrap • Tailwind
+**⚙️ Backend**:  
+🛠️ Express.js ・ ⚙️ Node.js ・ 🧠 MongoDB
 
-### ⚙️ Back-end
+**🚀 DevOps**:  
+🐳 Docker ・ 🔁 GitHub Actions
 
-**Languages**:  
-• JavaScript / TypeScript
+**🧠 Concepts**:  
+🔗 REST APIs ・ 🧱 MVC ・ 🧼 Clean Code
 
-**Frameworks**:  
-• Express.js  
-• Node.js
-
-**Databases**:  
-• MongoDB
-
-**Containerization & Deployment**:  
-• Docker  
-• GitHub Actions
-
-### 🔁 APIs & Architectures:
-
-• REST APIs  
-• MVC architecture  
-• Clean Code Principles
 
 ---
 
@@ -104,7 +87,7 @@ Turning ideas into clean, modern web experiences 🚀
 
 ## ☕ Buy Me a Coffee
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B81&center=true&vCenter=true&width=435&lines=Liked+My+Work%3F;Consider+Buying+Me+a+Coffee+%E2%98%95%EF%B8%8F" alt="Buy me a coffee animated text" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=500&lines=Appreciate+my+Work%3F;Support+Me+by+Buying+a+Coffee+☕%EF%B8%8F;You're+Awesome+for+Stopping+By!" alt="Buy me a coffee animated text" />
 
 <a href="https://www.buymeacoffee.com/rajaabpro" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
