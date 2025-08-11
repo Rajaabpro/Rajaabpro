@@ -89,15 +89,6 @@ Turning ideas into clean, modern web experiences 🚀
 
 ---
 
-## ☕ Buy Me a Coffee
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=500&lines=Appreciate+my+Work%3F;Support+Me+by+Buying+a+Coffee+☕%EF%B8%8F;You're+Awesome+for+Stopping+By!" alt="Buy me a coffee animated text" />
-
-<a href="https://www.buymeacoffee.com/rajaabpro" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
-</a>
-
----
 
 ## 📲 Let’s Connect:
 
